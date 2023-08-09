@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750745380008",
+    "project_id": "peaky-443b1",
+    "storage_bucket": "peaky-443b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750745380008:android:d92e44bf4dec1228ca8e9d",
+        "android_client_info": {
+          "package_name": "com.example.peaky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750745380008-n3i85dsd6so0iui5ddi9to9f21ia71lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzOmpf_ebaH-31wU8qbmWiPtZykoObV7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750745380008-n3i85dsd6so0iui5ddi9to9f21ia71lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

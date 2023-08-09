@@ -1,0 +1,90 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+
+# Gradle files
+.gradle/
+/build/
+/captures/
+*.iml
+
+# Local configuration files
+/local.properties
+
+# Android Studio navigation files
+.navigation/
+
+# Android SDK configuration files
+*.xml
+*.properties
+
+# Generated files
+bin/
+gen/
+out/
+captures/
+app/build/
+/*/build/
+/captured/
+
+# Gradle wrapper files
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Proguard files
+proguard-rules.pro
+
+# Android Studio .idea files
+.idea/
+
+# Compiled Java classes
+*.class
+
+# Kotlin metadata
+*.kotlin_module
+
+# Log files
+*.log
+
+# User-specific files
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries
+/.idea/vcs.xml
+/.idea/codeStyles
+*.sln.iml
+
+# CMake build files
+cmake-build-*/
+
+# NDK build files
+obj/
+
+# Android Profiler files
+*.hprof
+
+# Android Studio profiler files
+*.heapprofiler
+
+# Miscellaneous
+*.DS_Store
+*.tmp
+*.swp
+*~
+*.bak
+*.patch
+*.diff
